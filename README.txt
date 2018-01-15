@@ -1,0 +1,2 @@
+All of the images used on the site were taken from the site I was seeking to renovate.
+The potential to download the images onto the source code is definately existing, but I prefer web hosting to keep the folder looking clean.
